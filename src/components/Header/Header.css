@@ -1,0 +1,15 @@
+.header-container {
+    margin-top: 35px;
+}
+
+nav a{
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 20px;
+    color: black;
+    
+}
+
+nav a:hover {
+    color: orange;
+}
