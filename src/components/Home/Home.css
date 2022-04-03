@@ -1,0 +1,30 @@
+.header-area{
+    display: flex;
+    margin: 2%;
+}
+
+.header-text{
+    margin-top:5%;
+}
+
+.live-demo-btn {
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 18px;
+    margin-top: 25px;
+    border: none;
+    background-color: rgb(125, 154, 236);
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.live-demo-btn:hover{
+    background-color: rgb(151, 174, 240);
+}
+
+.header-image img{
+    height: 70%;
+}
