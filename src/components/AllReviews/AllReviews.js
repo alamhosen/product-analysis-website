@@ -5,13 +5,17 @@ import './AllReviews.css'
 const AllReviews = () => {
     const [reviews, setReviews] = Reviews();
     return (
-        <div className='allreview'>
-            {
-                reviews.map(review => <Review
-                    key={review.id}
-                    review={review}
-                ></Review>)
-            }
+        <div>
+            <p className='reviews-heading'>What our customers say!</p>
+            <div className='allreview'>
+                {
+                    reviews.map(review => <Review
+                        key={review.id}
+                        review={review}
+                    ></Review>)
+                }
+            </div>
+
         </div>
     );
 };
