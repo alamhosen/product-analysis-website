@@ -1,6 +1,8 @@
+.home-container{
+    margin: 2%;
+}
 .header-area{
     display: flex;
-    margin: 2%;
 }
 
 .header-text{
@@ -27,4 +29,28 @@
 
 .header-image img{
     height: 70%;
+}
+
+.reviews{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.SeeAllReviewBtn {
+    padding-left: 35px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    margin-top: 25px;
+    border: none;
+    background-color: rgb(125, 154, 236);
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.SeeAllReviewBtn:hover{
+    background-color: rgb(151, 174, 240);
 }

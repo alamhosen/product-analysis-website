@@ -1,0 +1,17 @@
+.review-container {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(151, 174, 240);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.review-container img {
+    height: 100px;
+    border: 1px solid rgb(125, 154, 236);
+    border-radius: 50%;
+}
+
+.review-container h4 {
+    margin: 0;
+}

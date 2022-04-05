@@ -4,12 +4,12 @@
 
 nav a{
     text-decoration: none;
-    margin-right: 10px;
+    margin-right: 15px;
     font-size: 21px;
     color: black;
     
 }
 
 nav a:hover {
-    color: orange;
+    color: rgb(125, 154, 236);
 }

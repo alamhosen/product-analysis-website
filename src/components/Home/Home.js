@@ -1,6 +1,12 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
+import Reviews from '../../hooks/Reviews';
+import Review from '../Review/Review';
 import './Home.css'
 const Home = () => {
+    const [reviews, setReviews] = Reviews();
+    const navigate = useNavigate();
+
     return (
         <div className='home-container'>
             <div className='header-area'>
@@ -13,7 +19,19 @@ const Home = () => {
                     <img src="https://m.media-amazon.com/images/I/71h55t2eL2L._AC_UY500_.jpg"></img>
                 </div>
             </div>
-            <div className='review-area'></div>
+            <div className='review-area'>
+                <h2>Customer Reviews: {reviews.length}</h2>
+                <div className='reviews'>
+                    {
+                        reviews.slice(0, 3).map(review => <Review
+                            key={review.id}
+                            review={review}
+                        ></Review>)
+                    }
+                </div>
+
+                <button onClick={() => navigate('/reviews')} className='SeeAllReviewBtn'>See All Reviews</button>
+            </div>
         </div>
     );
 };

@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name": "ExAva Taylor",
+        "review": "Love these shoes. They are so comfy and yet light weight.I am a nurse and I need to standing for a long time.Since wearing this shoe, I still do not feel foot pain after finishing the day's work.",
+        "ratings" : 4.9,
+        "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/309c8f6c-873d-4d6a-9408-d21133db5843._CR100,0,300,300_SX460_.jpg"
+    },
+    {
+        "id":2,
+        "name": "Nancy Flowerss",
+        "review": "Where do I start!? I love them! Super comfortable and thats a rare find for me. Great price and so cute! They have adjustable laces for tightening and loosening but the shoe overall fit was perfect. So girly too. Lots of detail and nice material.",
+        "ratings" :5 ,
+        "img":"https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/b8b30c35-8cf7-43a2-bc79-c359038e0b95._CR0,0,400,400_UX460_.jpg"
+    },
+    {
+        "id":3,
+        "name": "Mary Mary",
+        "review": "The shoes are comfortable but the sizing is way off. I normally wear a 7.5 and I should have ordered a 6 because they were so large. Was quite disappointed as they took quite a long time to get here.",
+        "ratings" : 5,
+        "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/84387a53-6148-445c-858e-7ee63c78dd2f._CR0,0,375,375_UX460_.jpg"
+    },
+    {
+        "id":4,
+        "name": "Lisa P",
+        "review": "I was a bit skeptical about ordering these shoe considering it's not a brand I've heard of. I'm glad I took the chance!! I'm on my feet all day at work and these shoes are light and comfortable. They came packaged in an amazon bag and were in great condition. Exactly as described. True to size. I highly recommend them.",
+        "ratings" : 5,
+        "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/981fe0c0-9ad1-4f5c-87c2-d5b0d18d40a8._CR62,0,375,375_SX460_.jpg"
+    },
+    {
+        "id":5,
+        "name": "RoVa24",
+        "review": "I work at a hospital and these shoes are great for when I'm on my feet all day. I've tried the other light weight shoes that don't have the ties on top from Amazon, but the backs of them dig into my ankles. These shoes with the ties on top do not seem to have as high of a back on them. My last pair lasted about 6 months, but for the price you pay for them, I think that's excellent!",
+        "ratings" : 5,
+        "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/6639b833-7db5-4e51-9a04-e4f666b2519d._CR5,0,594,594_SX460_.jpg"
+    },
+    {
+        "id":6,
+        "name": "Rachelle R.",
+        "review": "Purchased these sneakers, mostly for the price, the casual look and the slip-on factor. And I'm super happy with them!!! They are really comfortable.... and I cannot stress that enough.",
+        "ratings" : 5,
+        "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/63b2fb26-f818-4202-abd1-5d0d7fc82fa4._CR0,10,313,313_UX460_.jpg"
+    }
+]
