@@ -7,9 +7,9 @@ const AllReviews = () => {
     return (
         <div className='allreview'>
             {
-                reviews.map (review => <Review
-                
-                review ={review}
+                reviews.map(review => <Review
+                    key={review.id}
+                    review={review}
                 ></Review>)
             }
         </div>
