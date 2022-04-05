@@ -1,3 +1,10 @@
+# [Monster Shoes Store]
+## About this project
+* I use react router in app.js file and Link in header.js file to let the user change the URL.
+* I created custom hooks to show reviews in home and all reviews page.
+* In dashboard I take helps from recharts to make chart.
+* I used useNavigate in See All Button to go reviews page.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

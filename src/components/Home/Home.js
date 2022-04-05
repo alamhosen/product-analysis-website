@@ -11,8 +11,8 @@ const Home = () => {
         <div className='home-container'>
             <div className='header-area'>
                 <div className='header-text'>
-                    <h1>Welcome to Monater Shoes Store</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt reprehenderit laborum minus consequatur fugiat doloribus! Ut ipsa maxime sapiente. Laborum ipsum eius suscipit pariatur. Ratione nulla ex delectus distinctio fugiat, quia sapiente suscipit dolores deserunt.</p>
+                    <h1>Welcome to Monster Shoes Store</h1>
+                    <p> Monster Shoes Store is a professional shoe store. We are providing you light weight and high quality athletic sneakers. Our mission is to become a well-known footwear brand. Monster Shoes Store is devoted to providing each customer with the best shoe-wear experience!</p>
                     <button className='live-demo-btn'>Live Demo</button>
                 </div>
                 <div className='header-image'>

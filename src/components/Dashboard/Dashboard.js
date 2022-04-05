@@ -81,7 +81,7 @@ const Dashboard = () => {
             </div>
 
             <div>
-                <h3>Area Chart: Investment vs Revenue</h3>
+                <h3>AreaChart: Investment vs Revenue</h3>
                 <AreaChart width={530} height={330} data={data}
                 >
                     <defs>
