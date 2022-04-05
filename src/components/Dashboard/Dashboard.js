@@ -1,15 +1,6 @@
-import { Tooltip } from 'bootstrap';
-import React, { useEffect, useState } from 'react';
 import { Area, AreaChart, Bar, BarChart, CartesianGrid, Legend, Line, LineChart, Pie, PieChart, XAxis, YAxis } from 'recharts';
 import './Dashboard.css'
 const Dashboard = () => {
-    /* const [data, setData] = useState();
-    console.log(data);
-    useEffect( () =>{
-        fetch ("data.json")
-        .then (res => res.json())
-        .then (data => setData(data));
-    }, []) */
     const data = [
         {
             "month": "Mar",
