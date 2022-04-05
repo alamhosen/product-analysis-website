@@ -17,7 +17,7 @@
         "id":3,
         "name": "Mary Mary",
         "review": "The shoes are comfortable but the sizing is way off. I normally wear a 7.5 and I should have ordered a 6 because they were so large. Was quite disappointed as they took quite a long time to get here.",
-        "ratings" : 5,
+        "ratings" : 4.8,
         "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/84387a53-6148-445c-858e-7ee63c78dd2f._CR0,0,375,375_UX460_.jpg"
     },
     {
@@ -38,7 +38,7 @@
         "id":6,
         "name": "Rachelle R.",
         "review": "Purchased these sneakers, mostly for the price, the casual look and the slip-on factor. And I'm super happy with them!!! They are really comfortable.... and I cannot stress that enough.",
-        "ratings" : 5,
+        "ratings" : 4.9,
         "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/63b2fb26-f818-4202-abd1-5d0d7fc82fa4._CR0,10,313,313_UX460_.jpg"
     }
 ]

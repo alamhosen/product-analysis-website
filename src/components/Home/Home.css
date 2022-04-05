@@ -3,6 +3,7 @@
 }
 .header-area{
     display: flex;
+    margin-bottom: 0;
 }
 
 .header-text{
